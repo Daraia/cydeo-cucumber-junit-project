@@ -367,7 +367,7 @@ public class BrowserUtils {
     }
 
     /**
-     * Changes the HTML attribute of a Web Element to the given value using JavaScript
+     * Changes the HTML attribute of a webTableLogin.feature Element to the given value using JavaScript
      *
      * @param element
      * @param attributeName
